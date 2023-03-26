@@ -1,2 +1,1 @@
-# webeditorconfig
-Best .editorconfig for WEB-developing
+# .editorconfig fyle with settings for Web-developers
